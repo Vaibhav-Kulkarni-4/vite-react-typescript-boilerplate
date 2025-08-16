@@ -1,7 +1,7 @@
 import { useSelector } from "react-redux";
 import Loader from "./components/atoms/loader/Loader";
 import Table from "./components/atoms/table/Table";
-import TopBar from "./components/atoms/topbar/Topbar";
+import TopBar from "./components/atoms/topbar/TopBar";
 import "./App.scss";
 import type { RootState } from "./stores/store";
 
